@@ -1,3 +1,4 @@
+<img width="1497" height="951" alt="WTAabTuxcn" src="https://github.com/user-attachments/assets/51075768-3da4-4635-939c-f6e9fc391b5f" />
 [README.md](https://github.com/user-attachments/files/29454819/README.md)
 # 智影水印
 
