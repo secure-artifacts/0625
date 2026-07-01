@@ -28,8 +28,9 @@ jobs:
 
       - name: Build Executable
         run: |
-          powershell .\build_exe.ps1 -OneFile
+          powershell .\build_exe.ps1
           powershell .\package_portable.ps1
+          powershell .\build_exe.ps1 -OneFile
           mkdir release_assets
           copy dist\WatermarkStudio.exe release_assets\
           copy release\WatermarkStudio_Portable.zip release_assets\
